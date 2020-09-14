@@ -2,7 +2,7 @@
 Dynamically create github portfolios with this fast and easy Portfolio Generator. Answer a couple of questions link your github page and respective projects and generate your own portfolio. 
 
 ## Functionality
-You need clone the repository to test this app and run it through terminal with command code "node app" from your cloned root folder.
+You need to clone the repository to test this app and run it through terminal with command code "node app" from your cloned root folder.
 
 Upon running the app you are presented with a series of questions that you have to answer before you can proceed.
 
@@ -51,4 +51,4 @@ Created by:
 
 
 ## Screenshot
-![Screenshot](assets/images/screenshot.png)
+![Screenshot](./assets/images/screenshot.png)
