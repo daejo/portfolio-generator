@@ -51,4 +51,4 @@ Created by:
 
 
 ## Screenshot
-![Screenshot](assets/images/screenshot/screenshot.png)
+![Screenshot](assets/images/screenshot.png)
